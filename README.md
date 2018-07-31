@@ -31,7 +31,7 @@ APIs used:
 4. Moment.js - for current time
     
 Demonstration of Functionality:
-<img src="/ricardobentin/Compass/blob/master/assets/images/demo.GIF?raw=true" alt="demo.GIF">
+<img src="https://github.com/ricardobentin/Compass/blob/master/assets/images/demo.GIF" alt="demo.GIF">
 
 **MVP**
 
