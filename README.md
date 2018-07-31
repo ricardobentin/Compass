@@ -30,6 +30,9 @@ APIs used:
 3. Geo IP Lookup - Returning the user's zip code
 4. Moment.js - for current time
     
+Demonstration of Functionality:
+![]()
+
 
 **MVP**
 
