@@ -33,6 +33,8 @@ APIs used:
 Demonstration of Functionality:
 <img src="https://github.com/ricardobentin/Compass/blob/master/assets/images/demo.GIF" alt="demo.GIF">
 
+Link to project: https://ricardobentin.github.io/Compass/
+
 **MVP**
 
 1. Who is your target audience?  People looking to find new ways of discovering content, and people looking for a way to discuss or even enjoy (via fandango or seat geek) an event together
